@@ -1,0 +1,17 @@
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 5vw;
+}
+
+.header-logo {
+    font-family: "WildStyle", sans-serif;
+    font-size: 3vw;
+    font-weight: bold;
+}
+
+.header-content {
+    display: flex;
+    list-style-type: none;
+    gap: 1vw;
+}
